@@ -1,10 +1,10 @@
 {
-  "name": "language-lua",
-  "version": "0.9.11",
+  "name": "language-lua-sm5",
+  "version": "0.0.1",
   "private": false,
-  "author": "FireZenk <firezenk@gmail.com>",
-  "description": "Add syntax highlighting and snippets to Lua files in Atom",
-  "repository": "https://github.com/FireZenk/language-lua",
+  "author": "RhythmLunatic",
+  "description": "Add syntax highlighting and snippets to SM5 Lua files in Atom",
+  "repository": "https://github.com/ARCofSpada/language-lua-sm5",
   "license": "MIT",
   "engines": {
     "atom": ">=0.50.0"
