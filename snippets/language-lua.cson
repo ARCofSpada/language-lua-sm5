@@ -179,3 +179,30 @@
   'math.tanh':
     'prefix': 'tanh',
     'body': 'math.tanh(${0:x})'
+  'accelerate animation':
+    'prefix': 'accelerate',
+    'body': 'accelerate,${0:rate})'
+  'addcommand':
+    'prefix': 'addcommand',
+    'body': 'addcommand,${0:sName}, ${1:cmdName})'
+  'add x rotation':
+    'prefix': 'addrotationx',
+    'body': 'addrotationx,${0:rot}'
+  'add y rotation':
+    'prefix': 'addrotationy',
+    'body': 'addrotationy,${0:rot}'
+  'add z rotation':
+    'prefix': 'addrotationz',
+    'body': 'addrotationz,${0:rot}'
+  'add to x position':
+    'prefix': 'addx',
+    'body': 'addx,${0:xPos}'
+  'add to y position':
+    'prefix': 'addy',
+    'body': 'addx,${0:yPos}'
+  'add to z position':
+    'prefix': 'addz',
+    'body': 'addx,${0:zPos}'
+  'should animate?':
+    'prefix': 'animate';
+    'body': 'animate,${0:true}'
